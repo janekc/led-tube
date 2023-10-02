@@ -5,6 +5,9 @@ It should run with 4 x 18650 lithium battery cells, that can be recharged throug
 
 The IP5328P can output uo to 5v 3.1A which, according to [Quins' real world LED Power consumption sheet](https://quinled.info/2020/03/12/digital-led-power-usage/), would be enough to power around 70 WS2812b 5050 RGB LEDs.
 
+<img width="955" alt="Idea to use VOUT1 to power LEDs and ESP32 with IP5328P" src="https://github.com/janekc/led-tube/assets/32040630/7f33bd0d-97d9-422a-acac-64fe3aaba133">
+
+
 #### Extra Parts that you will need to buy if you want to build your own tube
 
 - [Acrylic PLEXIGLASS Tubes 50/44mm](https://hbholzmaus.de/epages/Store7_Shop34800.sf/de_DE/?ObjectPath=/Shops/Shop34800/Categories/Rohre/%22Rohre%20satiniert%22)
