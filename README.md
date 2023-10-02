@@ -1,1 +1,48 @@
 # led-tube
+Example PCB design for a portable tube shaped partylamp
+
+
+#### Extra Parts that you will need to buy if you want to build your own
+
+- [Acrylic PLEXIGLASS Tubes 50/44mm](https://hbholzmaus.de/epages/Store7_Shop34800.sf/de_DE/?ObjectPath=/Shops/Shop34800/Categories/Rohre/%22Rohre%20satiniert%22)
+
+- [QuinLED-ESP32-ABE Ethernet ESP32 Board](https://quinled.info/quinled-esp32/)
+
+
+
+#### Projects that have been used as Inspiration
+
+- https://github.com/YC-Lammy/IP5328P-powerbank_design
+
+- https://hackaday.io/project/177748-modular-18650-power-bank
+
+- https://www.flux.ai/jecstronic/powerbank-board
+
+- https://github.com/janekc/diodeplate
+
+- https://github.com/mstuij/QuinLED-ESP32-Breakout
+
+- https://quinled.info/quinled-esp32-kicad-files/
+
+
+
+#### Useful datasheets
+
+- http://www.injoinic.com/wwwroot/uploads/files/20200221/ec29931791194a51119ee1d6a4a21efb.pdf
+
+
+
+#### Links (not related directly)
+
+- https://github.com/kkr0kk/PowerBank-DIY
+
+- https://kicadrookie.blogspot.com/2022/07/kicad-projects-powerbank-pcb-IP5328P%20.html
+
+- https://www.lcsc.com/search?q=IP5328P
+
+- https://www.reddit.com/r/batteries/comments/onzm58/how_to_get_12v_for_a_amplifier_with_a_ip5328p/
+
+- https://www.ti.com/lit/ug/tiduey1a/tiduey1a.pdf?ts=1696105000442
+
+- https://hackaday.io/project/184947-pi-cm4-carrier-io-board
+
