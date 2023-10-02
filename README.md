@@ -1,12 +1,17 @@
 # led-tube
-Example PCB design for a portable tube shaped partylamp
+PCB design for a portable, battery powered, tube shaped partylight.
 
+It should run with 4 x 18650 lithium battery cells, that can be recharged through USB Power Delivery 3.0 with up to 18W. This would be achived using the IP5328P IC reference desing to handle charging and discharging of the 4 parallel cells.
 
-#### Extra Parts that you will need to buy if you want to build your own
+The IP5328P can output uo to 5v 3.1A which, according to [Quins' real world LED Power consumption sheet](https://quinled.info/2020/03/12/digital-led-power-usage/), would be enough to power around 70 WS2812b 5050 RGB LEDs.
+
+#### Extra Parts that you will need to buy if you want to build your own tube
 
 - [Acrylic PLEXIGLASS Tubes 50/44mm](https://hbholzmaus.de/epages/Store7_Shop34800.sf/de_DE/?ObjectPath=/Shops/Shop34800/Categories/Rohre/%22Rohre%20satiniert%22)
 
 - [QuinLED-ESP32-ABE Ethernet ESP32 Board](https://quinled.info/quinled-esp32/)
+
+- [18650 lithium batteries](https://www.akkushop.de/de/3400mah-panasonic-18650-li-ion-akku-mit-eigener-schutzschaltung-ca.-69-x-1861mm-beachten/)
 
 
 
