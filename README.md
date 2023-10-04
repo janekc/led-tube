@@ -54,3 +54,4 @@ The IP5328P can output uo to 5v 3.1A which, according to [Quins' real world LED 
 
 - https://hackaday.io/project/184947-pi-cm4-carrier-io-board
 
+- https://www.aliexpress.com/item/33057941535.html?aff_fcid=06bf9dcd74484ab2a2f4b222b06f5361-1696411999482-09499-_AgWfRQ&aff_fsk=_AgWfRQ&aff_platform=shareComponent-detail&aff_trace_key=06bf9dcd74484ab2a2f4b222b06f5361-1696411999482-09499-_AgWfRQ&afSmartRedirect=y
