@@ -458,7 +458,7 @@
       "idf": "",
       "netlist": "../../../../Applications/KiCad/",
       "specctra_dsn": "",
-      "step": "diodeplate.step",
+      "step": "led-tube.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
